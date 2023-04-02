@@ -70,4 +70,5 @@ SOFTWARE.
 ## Links
 
 Demo video: https://drive.google.com/file/d/1Z19QeafoHEQXexeMCRx0gSVfqfnItp5P/view
-\n Demo showing install: https://drive.google.com/file/d/1oFRP-rNStNwzzS59PsqHOK6pTlgCEoUh/view (My sequelize not playing nice but this is how you initialize the app.)
+
+Demo showing install: https://drive.google.com/file/d/1oFRP-rNStNwzzS59PsqHOK6pTlgCEoUh/view (My sequelize not playing nice but this is how you initialize the app.)
